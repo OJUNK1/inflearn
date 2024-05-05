@@ -1,0 +1,7 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal " sum=" 3 times.(‹ÅÃœùÿÿÿÿ8×ÎÁò1J$662006bc-5aab-43b8-8aa9-eb09e4aea74f
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ¥8ìÜ½ò1J$4121c55e-31b2-47e2-b28e-abdfdf0569a1
+r	java:S106"+Replace this use of System.out by a logger.(‹ÅÃœùÿÿÿÿ8Ò÷¾ò1J$a50a7e33-78b1-423c-9703-1b4cfa494172
+m	java:S106"+Replace this use of System.out by a logger.(Íøáı8ü›Àò1J$d32a72b0-2505-45ec-a109-f17fc44f78b7
+r	java:S106"+Replace this use of System.out by a logger.(¿—·‡úÿÿÿÿ8İÎÁò1J$3478c697-976c-48e6-8d13-52325fd27d06
