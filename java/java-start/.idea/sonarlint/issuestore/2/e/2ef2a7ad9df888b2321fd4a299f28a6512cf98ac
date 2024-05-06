@@ -1,0 +1,9 @@
+
+‚
+java:S1854	":Remove this useless assignment to local variable "number".(€°Èéıÿÿÿÿ8ÖÅŸçô1J$7a265a6d-6dd8-4f5d-87e7-0cd1f69337ee
+s
+java:S1481	"+Remove this unused "number" local variable.(€°Èéıÿÿÿÿ8×ÅŸçô1J$4624e06a-7961-4aa4-ae4e-ca4ff55356f7
+m	java:S106
+"+Replace this use of System.out by a logger.(ŞÒ©Ø8¶Óçô1J$f081e2b0-4d32-43da-a080-23cdd0c13b54
+r	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ8û¥¦çô1J$a45d5b6a-9cf6-4852-a5ee-b017986b0a25
+r	java:S106"+Replace this use of System.out by a logger.(ú§ÚÄúÿÿÿÿ8üÈªçô1J$d98914b5-689a-4d5b-808b-a6e498917c5a
