@@ -13,7 +13,7 @@ public class ProductAdminEx {
         boolean isTrue = true;
         while (isTrue) {
             System.out.print("1. 상품 등록 | 2. 상품 목록 | 3. 종료\n메뉴를 선택하세요:");
-            int option = scanner.nextInt();
+            int option = scanner.nextInt(); // \n
             scanner.nextLine();
 
             switch (option) {

@@ -1,0 +1,6 @@
+
+
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "sum".(Ξλό‚8ίάξτ1J$4c5dd186-0f50-4f50-9533-8109303e993b
+r	java:S106"+Replace this use of System.out by a logger.(½ΞξΌύÿÿÿÿ8¶Ϊξτ1J$4ff0b864-3af2-4774-8e33-4d9c3a06b489
+m	java:S106	"+Replace this use of System.out by a logger.(ιιδ“8μάξτ1J$9d77db92-40c6-411f-b2c6-a238422ac439
+r	java:S106"+Replace this use of System.out by a logger.(ΩΩ¦σÿÿÿÿÿ8¬έξτ1J$b4fec48f-b11e-4b47-b5a9-67409f67b2e9
