@@ -430,3 +430,5 @@ Q.idea/sonarlint/securityhotspotstore/5/9/59a7d64ba61561911535bd64dbbcefaf1ef5c0
 Q.idea/sonarlint/securityhotspotstore/4/1/415a4ba0271d6a5caff9471e63b5f0593c12bc9f,c/a/ca07db4adfaa52764fbd07fc38ce21d20ccb5909
 Å
 Q.idea/sonarlint/securityhotspotstore/c/5/c5518511eadae206bdc9650b9d0396694a7d53c5,4/f/4fe0a4f85a8c6641c21ab807dbb29006e311de02
+L
+src/method/MethodValue4.java,4/0/4049efbf9c756ee3bef936df2dd62691eea62804
