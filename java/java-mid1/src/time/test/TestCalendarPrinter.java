@@ -26,7 +26,6 @@ public class TestCalendarPrinter {
         int offsetWeekDAys = firstDayOfMonth.getDayOfWeek().getValue() % 7;
 
         System.out.println("Su Mo Tu We Th Fr Sa ");
-
         for (int i = 0; i < offsetWeekDAys; i++) {
             System.out.print("  ");
         }
